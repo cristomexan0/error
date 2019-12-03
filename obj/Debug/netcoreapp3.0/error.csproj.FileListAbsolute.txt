@@ -1,0 +1,11 @@
+C:\Users\ITT\Documents\POO\error\obj\Debug\netcoreapp3.0\error.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\POO\error\obj\Debug\netcoreapp3.0\error.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\POO\error\obj\Debug\netcoreapp3.0\error.AssemblyInfo.cs
+C:\Users\ITT\Documents\POO\error\bin\Debug\netcoreapp3.0\error.exe
+C:\Users\ITT\Documents\POO\error\bin\Debug\netcoreapp3.0\error.deps.json
+C:\Users\ITT\Documents\POO\error\bin\Debug\netcoreapp3.0\error.runtimeconfig.json
+C:\Users\ITT\Documents\POO\error\bin\Debug\netcoreapp3.0\error.runtimeconfig.dev.json
+C:\Users\ITT\Documents\POO\error\bin\Debug\netcoreapp3.0\error.dll
+C:\Users\ITT\Documents\POO\error\bin\Debug\netcoreapp3.0\error.pdb
+C:\Users\ITT\Documents\POO\error\obj\Debug\netcoreapp3.0\error.dll
+C:\Users\ITT\Documents\POO\error\obj\Debug\netcoreapp3.0\error.pdb
